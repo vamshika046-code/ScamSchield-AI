@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI Fake Offer and Phishing Inspector",
+  "description": "Inspect suspicious messages, emails, job offers, and offer letters for phishing and fraud with real-time AI threat scoring, red-flag phrase detection, domain verification, and actionable security guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
